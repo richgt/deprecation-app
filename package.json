@@ -56,7 +56,7 @@
     "ember-resolver": "^5.2.0",
     "ember-set-body-class": "^0.4.2",
     "ember-source": "~3.9.1",
-    "ember-styleguide": "2.5.0",
+    "ember-styleguide": "3.1.1",
     "ember-tether": "^1.0.0",
     "eslint-plugin-ember": "^6.8.2",
     "loader.js": "^4.7.0",
